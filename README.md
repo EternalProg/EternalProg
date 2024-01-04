@@ -1,4 +1,4 @@
-Hi 👋 My name is Shvardak Dmitriy
+Hi 👋 My name is Dmitriy
 =================================
 
 The Software Engineering Student
