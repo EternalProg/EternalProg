@@ -9,7 +9,7 @@ C++ Developer
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [eternal.proglife@gmail.com](mailto:eternal.proglife@gmail.com)
 * 🚀  I'm currently working on [C++ STL realization](http://github.com/EternalProg/MySTL)
-* 🧠  I'm learning PostgreSQL, C++ Standard, QT FrameWork, DSA
+* 🧠  I'm learning PostgreSQL, C++ Standards, QT FrameWork, DSA
 * 🤝  I'm open to collaborating on Other C++ projects!
 * ⚡  I am actively studying algorithms and the English language. My level is B1
 
