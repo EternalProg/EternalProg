@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmitrii
+Hi 👋 My name is Dmytrii
 =================================
 
 C++ Developer
